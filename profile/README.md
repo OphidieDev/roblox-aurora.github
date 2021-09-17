@@ -28,3 +28,49 @@ Aurora Australis is a development studio founded by [Vorlias](https://github.com
         </td>
     </tr>
 </table>
+
+## Open Source
+<div align="center">
+    <p>In developing our games, we've come up with some open source libraries for Roblox games, primarily written with <a href="https://roblox-ts.com/">TypeScript</a>.</p>
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/roblox-aurora/rbx-net" title="Advanced Networking Library for Roblox"><img width=128px src="https://australis.dev/rbxnet.png"></a>
+            </td>
+            <td>
+                <a href="https://github.com/roblox-aurora/zircon" title="Runtime debugging console for Roblox"><img width=128px src="https://i.imgur.com/YgpbX7G.png"></a>
+            </td>
+            <td>
+                <a href="https://github.com/roblox-aurora/rbx-log" title="Logging Library for Roblox"><img width=128px src="https://i.imgur.com/yzq5cEa.png"></a>
+            </td>
+            <td>
+                <a href="https://github.com/roblox-aurora/zirconium" title="Zirconium DSL for Rolbox"><img width=128px src="https://i.imgur.com/pPwm8wc.png"></a>
+            </td>
+            <td>
+                <a href="https://github.com/roblox-aurora/rbx-snapdragon" title="Drag/Snap library for Roblox"><img width=128px src="https://australis.dev/snapdragon.png"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>RbxNet</h3>
+                <p>Advanced Networking Library for Roblox</p>
+            </td>
+            <td>
+                <h3>Zircon</h3>
+                <p>Runtime debugging console for Roblox</p>
+            </td>
+            <td>
+                <h3>Log</h3>
+                <p>Structured logging library akin to Serilog</p>
+            </td>
+            <td>
+                <h3>Zirconium</h3>
+                <p>Runtime DSL for Roblox</p>
+            </td>
+            <td>
+                <h3>Snapdragon</h3>
+                <p>Drag & Snap library</p>
+            </td>
+        </tr>
+    </table>
+</div>
