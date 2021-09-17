@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/australis-title.png"/>
+    <img src="https://australis.dev/australis-title.png"/>
 </div>
 
 # Welcome to [Aurora Australis](https://australis.dev)!
@@ -15,7 +15,7 @@ Aurora Australis is a development studio founded by [Vorlias](https://github.com
     </tr>
     <tr>
         <td>
-            <a href="https://twitter.com/zenerith"><img src="assets/zenerith_text@3x.png"/></a>
+            <a href="https://twitter.com/zenerith"><img src="https://australis.dev/zenerith_text@3x.png"/></a>
         </td>
         <td>
             <p>
