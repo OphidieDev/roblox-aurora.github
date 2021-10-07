@@ -38,7 +38,7 @@ Aurora Australis is a development studio founded by [Vorlias](https://github.com
                 <a href="https://github.com/roblox-aurora/rbx-net" title="Advanced Networking Library for Roblox"><img width=128px src="https://australis.dev/rbxnet.png"></a>
                 <br/>
                 <img src="https://australis.dev/github/roblox-ts-88.png" title="roblox-ts" width="40"/>
-                <img src="https://australis.dev/github/luau-88.png" title="luau" width="40"/>
+                <img src="https://raw.githubusercontent.com/Roblox/luau/master/docs/assets/images/luau-88.png" title="luau" width="40"/>
             </td>
             <td>
                 <a href="https://github.com/roblox-aurora/zircon" title="Runtime debugging console for Roblox"><img width=128px src="https://i.imgur.com/YgpbX7G.png"></a>
@@ -59,7 +59,7 @@ Aurora Australis is a development studio founded by [Vorlias](https://github.com
                 <a href="https://github.com/roblox-aurora/rbx-snapdragon" title="Drag/Snap library for Roblox"><img width=128px src="https://australis.dev/snapdragon.png"></a>
                 <br/>
                 <img src="https://australis.dev/github/roblox-ts-88.png" title="roblox-ts" width="40"/>
-                <img src="https://australis.dev/github/luau-88.png" title="luau" width="40"/>
+                <img src="https://raw.githubusercontent.com/Roblox/luau/master/docs/assets/images/luau-88.png" title="luau" width="40"/>
             </td>
         </tr>
         <tr>
