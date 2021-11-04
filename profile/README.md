@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://australis.dev/australis-title.png"/>
+    <img src="https://raw.githubusercontent.com/roblox-aurora/.github/main/aurora-australis.png"/>
 </div>
 
 # Welcome to [Aurora Australis](https://australis.dev)!
