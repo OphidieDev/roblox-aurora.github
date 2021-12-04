@@ -15,7 +15,7 @@ Aurora Australis is a development studio founded by [Vorlias](https://github.com
     </tr>
     <tr>
         <td>
-            <a href="https://twitter.com/zenerith"><img src="https://australis.dev/zenerith_text@3x.png"/></a>
+            <a href="https://twitter.com/zenerith"><img src="https://raw.githubusercontent.com/roblox-aurora/.github/main/zenerith_alpha%402x.png"/></a>
         </td>
         <td>
             <p>
