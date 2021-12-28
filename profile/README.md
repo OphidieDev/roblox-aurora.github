@@ -56,7 +56,7 @@ Aurora Australis is a development studio founded by [Vorlias](https://github.com
                 <a href="https://www.npmjs.com/package/@rbxts/zirconium"><img src="https://i.imgur.com/BMXDy3C.png" title="roblox-ts" width="40"/></a>
             </td>
             <td>
-                <a href="https://github.com/roblox-aurora/rbx-snapdragon" title="Drag/Snap library for Roblox"><img width=128px src="https://australis.dev/snapdragon.png"></a>
+                <a href="https://github.com/roblox-aurora/rbx-snapdragon" title="Drag/Snap library for Roblox"><img width=128px src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/snapdragon.png"></a>
                 <br/>
                 <a href="https://www.npmjs.com/package/@rbxts/snapdragon"><img src="https://i.imgur.com/BMXDy3C.png" title="roblox-ts" width="40"/></a>
                 <a href="https://wally.run/package/vorlias/snapdragon"><img src="https://raw.githubusercontent.com/Roblox/luau/master/docs/assets/images/luau-88.png" title="luau" width="40"/></a>
