@@ -49,6 +49,7 @@ Australis is a development studio founded by [Vorlias](https://github.com/Vorlia
                 <a href="https://github.com/roblox-aurora/rbx-log" title="Logging Library for Roblox"><img width=128px src="https://i.imgur.com/yzq5cEa.png"></a>
                 <br/>
                 <a href="https://www.npmjs.com/package/@rbxts/log"><img src="https://i.imgur.com/BMXDy3C.png" title="roblox-ts" width="40"/></a>
+                <a href="https://wally.run/package/vorlias/log"><img src="https://raw.githubusercontent.com/Roblox/luau/master/docs/assets/images/luau-88.png" title="luau" width="40"/></a>
             </td>
             <td>
                 <a href="https://github.com/roblox-aurora/zirconium" title="Zirconium DSL for Rolbox"><img width=128px src="https://i.imgur.com/pPwm8wc.png"></a>
