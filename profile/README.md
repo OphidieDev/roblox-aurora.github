@@ -2,9 +2,10 @@
     <img src="https://raw.githubusercontent.com/roblox-aurora/.github/main/profile/assets/aurora-title.png"/>
 </div>
 
-# Welcome to [Australis](https://australis.dev)!
 
-Australis is a development studio founded by [Vorlias](https://github.com/Vorlias) in 2014. We are located all over the world and are passionate about developing games.
+Welcome to Australis. We're a remote studio located all over the world, dedicated on making high quality games players can experience, as well as game-changing open source tools and frameworks. 
+
+Founded by [Vorlias](https://github.com/Vorlias) in 2014.
 
 ## Games
 
