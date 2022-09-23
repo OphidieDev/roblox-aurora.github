@@ -25,7 +25,7 @@ Founded by [Vorlias](https://github.com/Vorlias) in 2014.
             <p>
                 It is named for the world it takes place in <i>Zenerith</i>, which the player is thrust into with a huge amount of depth and lore behind it and a lot to explore and discover.
             </p>
-            <a href="https://zenerith.com">Game Website</a> | <a href="https://twitter.com/Zenerith">Twitter</a>
+            <a href="https://ptb.zenerith.com">Public Test Build</a> | <a href="https://twitter.com/Zenerith">Twitter</a>
         </td>
     </tr>
 </table>
