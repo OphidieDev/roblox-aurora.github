@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/roblox-aurora/.github/main/profile/assets/aurora-title.png"/>
+    <img src="https://raw.githubusercontent.com/roblox-aurora/.github/main/aurora-australis.png"/>
 </div>
 
 
