@@ -39,7 +39,7 @@ Founded by [Vorlias](https://github.com/Vorlias) in 2014.
                 <a href="https://github.com/roblox-aurora/rbx-net" title="Advanced Networking Library for Roblox"><img width=128px src="https://raw.githubusercontent.com/roblox-aurora/rbx-net/main/logo.png"></a>
                 <br/>
                 <a href="https://www.npmjs.com/package/@rbxts/net"><img src="https://i.imgur.com/BMXDy3C.png" title="roblox-ts" width="40"/></a>
-                <a href="https://wally.run/package/vorlias/net"><img src="https://raw.githubusercontent.com/Roblox/luau/master/docs/assets/images/luau-88.png" title="luau" width="40"/></a>
+                <a href="https://wally.run/package/vorlias/net"><img src="https://raw.githubusercontent.com/luau-lang/site/9659bdf2a08d2127426e8cf34b918807e2ca8528/assets/images/luau-88.png" title="luau" width="40"/></a>
             </td>
             <td>
                 <a href="https://github.com/roblox-aurora/zircon" title="Runtime debugging console for Roblox"><img width=128px src="https://i.imgur.com/YgpbX7G.png"></a>
@@ -50,7 +50,7 @@ Founded by [Vorlias](https://github.com/Vorlias) in 2014.
                 <a href="https://github.com/roblox-aurora/rbx-log" title="Logging Library for Roblox"><img width=128px src="https://i.imgur.com/yzq5cEa.png"></a>
                 <br/>
                 <a href="https://www.npmjs.com/package/@rbxts/log"><img src="https://i.imgur.com/BMXDy3C.png" title="roblox-ts" width="40"/></a>
-                <a href="https://wally.run/package/vorlias/log"><img src="https://raw.githubusercontent.com/Roblox/luau/master/docs/assets/images/luau-88.png" title="luau" width="40"/></a>
+                <a href="https://wally.run/package/vorlias/log"><img src="https://raw.githubusercontent.com/luau-lang/site/9659bdf2a08d2127426e8cf34b918807e2ca8528/assets/images/luau-88.png" title="luau" width="40"/></a>
             </td>
             <td>
                 <a href="https://github.com/roblox-aurora/zirconium" title="Zirconium DSL for Rolbox"><img width=128px src="https://i.imgur.com/pPwm8wc.png"></a>
@@ -61,7 +61,7 @@ Founded by [Vorlias](https://github.com/Vorlias) in 2014.
                 <a href="https://github.com/roblox-aurora/rbx-snapdragon" title="Drag/Snap library for Roblox"><img width=128px src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/snapdragon.png"></a>
                 <br/>
                 <a href="https://www.npmjs.com/package/@rbxts/snapdragon"><img src="https://i.imgur.com/BMXDy3C.png" title="roblox-ts" width="40"/></a>
-                <a href="https://wally.run/package/vorlias/snapdragon"><img src="https://raw.githubusercontent.com/Roblox/luau/master/docs/assets/images/luau-88.png" title="luau" width="40"/></a>
+                <a href="https://wally.run/package/vorlias/snapdragon"><img src="https://raw.githubusercontent.com/luau-lang/site/9659bdf2a08d2127426e8cf34b918807e2ca8528/assets/images/luau-88.png" title="luau" width="40"/></a>
             </td>
         </tr>
         <tr>
